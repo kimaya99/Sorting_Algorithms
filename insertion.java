@@ -13,6 +13,5 @@ public int[] insertionSort(int [] list){
 	 		j--;
 	 	}
 	 }
-
 	 return list;
 }
